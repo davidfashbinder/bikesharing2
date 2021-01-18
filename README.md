@@ -28,3 +28,7 @@ Checkout by Gender, User Types by Gender, Customer Types, Trips by Gender per Ho
 
 We can see in the above visualizations that male ridership far outpaces female ridership.  Thee are also more males as subscriber-type customers, which have the highest usage of bikes.  
 
+### Summary
+
+We can see that NYC's CitiBike program is primarily used by male commuters during the morning and afternoon rush hour.  If commuters are going to drive the business in Des Moines, we must create additional visualizations to understand the volume of commuters in the city, as well as their commuting times and demographics.  Census data that shows where the population of Des Moines commutes from and to will also be helpful (trip start and stop locations in the NYC data) in order to plan for where we should put bikes.  
+
